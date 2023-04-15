@@ -1,4 +1,8 @@
 # Rotten-Tomato
+There are a few analysis we can look through.
+#1 How often are animation films considered "Certified fresh"?
+
+#2 Is it better to release films during certain seasons
 
 
 
